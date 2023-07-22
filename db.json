@@ -1,0 +1,25 @@
+{
+  "superHeroes": [
+    {
+      "id": 1,
+      "name": "Iorn Man",
+      "imageUrl": "https://cdn.britannica.com/49/182849-050-4C7FE34F/scene-Iron-Man.jpg",
+      "franchies": "marvel",
+      "gender": "male"
+    },
+    {
+      "name": "Bat man",
+      "imageUrl": "https://imageio.forbes.com/blogs-images/scottmendelson/files/2018/10/MV5BNzBhYTAxODEtNTAxNC00OWEyLWI5YmQtZjJiODJhMGFmNDM5XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_SX1336_CR001336999_AL_-1200x674.jpg?format=jpg&width=1200",
+      "franchies": "dc",
+      "gender": "male",
+      "id": 2
+    },
+    {
+      "name": "Super man",
+      "imageUrl": "https://cdn.vox-cdn.com/thumbor/ikwCOQsoVgiTkV7JlaqbF0hnKcA=/181x404:2802x2020/1400x933/filters:focal(1260x1260:1740x1740):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70004345/Superman_New_Mission_Statement.0.jpg",
+      "franchies": "dc",
+      "gender": "male",
+      "id": 3
+    }
+  ]
+}
